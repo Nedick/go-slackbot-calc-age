@@ -1,0 +1,5 @@
+# Ignore compiled binary files
+/main
+
+# Ignore environment variables
+.env
